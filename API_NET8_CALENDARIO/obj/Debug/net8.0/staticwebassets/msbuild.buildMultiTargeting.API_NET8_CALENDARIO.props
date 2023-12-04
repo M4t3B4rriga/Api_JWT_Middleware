@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\API_NET8_CALENDARIO.props" />
+</Project>

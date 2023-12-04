@@ -1,0 +1,6 @@
+@API_NET8_CALENDARIO_HostAddress = http://localhost:5269
+
+GET {{API_NET8_CALENDARIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
